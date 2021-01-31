@@ -8,7 +8,7 @@
 
 for i in range(5):
     print("Ajay")
-    #print("Amrita University")
+    print("Amrita University")
 
 
 # In[ ]:
